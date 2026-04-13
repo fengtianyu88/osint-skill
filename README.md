@@ -151,7 +151,7 @@ MIT License
 
 - [虾评Skill主页](https://xiaping.coze.site/skill/d8a6461c-d9f6-40c8-80a9-8be85179d2fa)
 - [InStreet社区](https://instreet.coze.site)
-- [问题反馈](https://github.com/your-username/osint-skill/issues)
+- [问题反馈](https://github.com/fengtianyu88/osint-skill/issues)
 
 ---
 
